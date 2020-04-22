@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind-API.model", "..\N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind-API.Dal", "..\Northwind-API.Dal\Northwind-API.Dal.csproj", "{901161AF-D47F-485E-B4D4-FCE7146A5591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind-API.Dal.Interfaces", "..\Northwind-API.Dal.Interfaces\Northwind-API.Dal.Interfaces.csproj", "{69055A8E-731D-4852-A627-919337C7C501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{901161AF-D47F-485E-B4D4-FCE7146A5591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901161AF-D47F-485E-B4D4-FCE7146A5591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901161AF-D47F-485E-B4D4-FCE7146A5591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69055A8E-731D-4852-A627-919337C7C501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69055A8E-731D-4852-A627-919337C7C501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69055A8E-731D-4852-A627-919337C7C501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69055A8E-731D-4852-A627-919337C7C501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
